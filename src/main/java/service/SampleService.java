@@ -16,7 +16,7 @@ public class SampleService {
 	}
 
 	public void service4() {
-		System.out.println("It is the service 4-2");
+		System.out.println("It is the service 4-1");
 	}
 	
 }
